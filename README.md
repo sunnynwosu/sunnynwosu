@@ -11,8 +11,8 @@ I am a **Cloud & Infrastructure Engineer** with expertise in **Linux, virtualiza
 
 ## 🏅 Certifications  
 - **Red Hat Certified Engineer (RHCE)**  
-- **Red Hat Certified Specialist in OpenShift Administration**  
-- **Red Hat Certified Specialist in Virtualization**  
+- **Red Hat Certified OpenShift Administrator**  
+- **Red Hat Certified Specialist in Openshift Virtualization**  
 - **Red Hat Certified Specialist in Containers**  
 - **Microsoft Certified: Azure Administrator Associate**
 - **AWS Certified Cloud Practitioner** 
