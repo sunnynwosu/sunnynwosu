@@ -30,6 +30,6 @@ I am looking to collaborate on:
 - **Open-source projects in DevOps & infrastructure management**  
 
 ## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/sunny-nwosu/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/sunny-nwosu)  
 
 📩 Feel free to explore my repositories or reach out for tech discussions!  
